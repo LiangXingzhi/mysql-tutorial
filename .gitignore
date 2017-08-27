@@ -22,6 +22,12 @@
 hs_err_pid*
 
 target/
+
+transaction-logs/
+src/main/resources/freemarker/
+src/main/resources/mybatis-generator-config.xml
+
+
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
